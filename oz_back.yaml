@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: oz_back
 
 leader: 병철
@@ -9,3 +10,16 @@ member:
   - 정건
   - 두홍
   - 가연
+=======
+team: oz_back
+
+leader: 연경
+
+coach: 성민
+
+member:
+  - 은기
+  - 정건
+  - 두홍
+  - 가연
+>>>>>>> conflict-1
